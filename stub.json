@@ -1,0 +1,1 @@
+{"config":{"system_prompt":"","model":"","temperature":0,"top_p":1,"framework":"nextjs-page-tailwind"},"prompts":[{"prompt":"Create a PHP script that generates a random number between 1 and 100.","md5":"9237c263342427de58571554c5e33b85"}]}
